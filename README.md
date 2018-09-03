@@ -1,6 +1,10 @@
 # IO-Extended-2018
 GDG Lima I/O Extended Agosto 2018 - https://ioextended.gdglima.com/
 
+## 🚀 Organizado : 
+- [X] GDG Lima
+- [X] WTM Lima
+- [X] GBG Lima
 
 Presentaciones :
 
